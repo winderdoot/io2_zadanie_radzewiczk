@@ -1,4 +1,6 @@
-1. Mateusz Lerke
-2. Marek Rauchfleisz
-3. Mateusz Siciarek
-4. Svetlana Gridina
+1. Svetlana Gridina
+2. Mateusz Lerke
+3. Krzysztof Radzewicz
+4. Marek Rauchfleisz
+5. Mateusz Siciarek
+
